@@ -1,0 +1,36 @@
+=== Informe del Sistema - Tue Oct 29 15:40:40 UTC 2024 ===
+
+=== Uso de CPU ===
+top - 15:40:40 up 0 min,  1 user,  load average: 0.37, 0.08, 0.03
+Tasks:  29 total,   1 running,  28 sleeping,   0 stopped,   0 zombie
+%Cpu(s):  0.0 us,  0.0 sy,  0.0 ni, 99.2 id,  0.8 wa,  0.0 hi,  0.0 si,  0.0 st 
+MiB Mem :   6881.2 total,   6071.8 free,    624.6 used,    410.2 buff/cache     
+MiB Swap:   2048.0 total,   2048.0 free,      0.0 used.   6256.5 avail Mem 
+
+    PID USER      PR  NI    VIRT    RES    SHR S  %CPU  %MEM     TIME+ COMMAND
+      1 root      20   0   21404  12852   9572 S   0.0   0.2   0:00.28 systemd
+      2 root      20   0    2616   1444   1320 S   0.0   0.0   0:00.00 init-sy+
+      6 root      20   0    2764    140    132 S   0.0   0.0   0:00.00 init
+
+=== Uso de Memoria ===
+               total        used        free      shared  buff/cache   available
+Mem:           6.7Gi       623Mi       5.9Gi       3.0Mi       410Mi       6.1Gi
+Swap:          2.0Gi          0B       2.0Gi
+
+=== Uso de Disco ===
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.4G     0  3.4G   0% /usr/lib/modules/5.15.153.1-microsoft-standard-WSL2
+none            3.4G  4.0K  3.4G   1% /mnt/wsl
+drivers         931G  671G  261G  72% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.9G  954G   1% /
+none            3.4G   76K  3.4G   1% /mnt/wslg
+none            3.4G     0  3.4G   0% /usr/lib/wsl/lib
+rootfs          3.4G  2.2M  3.4G   1% /init
+none            3.4G  492K  3.4G   1% /run
+none            3.4G     0  3.4G   0% /run/lock
+none            3.4G     0  3.4G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.4G   84K  3.4G   1% /mnt/wslg/versions.txt
+none            3.4G   84K  3.4G   1% /mnt/wslg/doc
+C:\             931G  671G  261G  72% /mnt/c
+tmpfs           689M   16K  689M   1% /run/user/1000
