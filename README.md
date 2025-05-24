@@ -2,7 +2,6 @@
 
 Proyecto: Scripts de Administración en Bash
 
-Descripción del Proyecto:
 El proyecto incluye un script principal, menutareas.sh, que presenta un menú interactivo para realizar diversas tareas administrativas, tales como:
 Generar un Informe del Sistema: Crea un archivo .log con información sobre el uso de CPU, memoria y disco.
 Crear y Gestionar Usuarios: Permite la creación de nuevos usuarios y la gestión de sus permisos y directorios personales.
