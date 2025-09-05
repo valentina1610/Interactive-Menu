@@ -1,9 +1,9 @@
 # Trabajo En Bash
 
 Miembros de el equipo:
-Valentina Olmos
-Yamila Sanchez
-Giuliana Manzo
+Valentina Olmos,
+Yamila Sanchez,
+Giuliana Manzo,
 
 Proyecto: Scripts de Administración en Bash
 
