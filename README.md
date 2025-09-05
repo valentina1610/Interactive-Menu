@@ -1,5 +1,10 @@
 # Trabajo En Bash
 
+Miembros de el equipo:
+Valentina Olmos
+Yamila Sanchez
+Giuliana Manzo
+
 Proyecto: Scripts de Administración en Bash
 
 El proyecto incluye un script principal, menutareas.sh, que presenta un menú interactivo para realizar diversas tareas administrativas, tales como:
